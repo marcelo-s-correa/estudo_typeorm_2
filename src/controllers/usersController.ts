@@ -28,6 +28,6 @@ export default {
     
         await usersRepository.save(user);
     
-        return response.json({mensagem:"TA TUDO OK !"});
+        return response.json(user);
     }
 };
