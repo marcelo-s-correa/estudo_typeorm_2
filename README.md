@@ -30,7 +30,7 @@ Para realizar as instalações das dependencias siga as documentações referent
 $ git clone <https://github.com/marcelo-s-correa/estudo_typeorm_2.git>
 
 # Acesse a pasta da aplicação  no terminal/cmd
-$ cd typeorm2
+$ cd estudo_typeorm_2-Main
 
 # Para rodar a aplicação execute o comando
 $ npm run dev ou $ yarn dev
