@@ -1,4 +1,4 @@
-# Estudo sobre API REST/REST-FULL UTILIZANDO DJANGO REST FRAMEWORK
+# Estudo sobre API REST/REST-FULL Utilizando Typescript com a lib Typeorm e Express
 
 <img src = "https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" width = "500px" height = "200px" alt = "Typeorm"/>
 
